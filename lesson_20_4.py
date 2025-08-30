@@ -99,4 +99,5 @@ print(f"3. Больше всего заказов {max_orders_per_day} было 
 print(f"4. Пользователи {users_with_max_orders} сделали наибольшее количество заказов: {max_user_orders}")
 print(f"5. Пользователи {users_with_max_spent} набрали наибольшую суммарную стоимость заказов: {max_spent:.2f}")
 print(f"6. Средняя стоимость заказа в июле: {avg_order_price:.2f}")
-print(f"7. Средняя стоимость товаров в заказе: {avg_item_price:.2f}")
+print(f"7. Средняя стоимость товаров в июле: {avg_item_price:.2f}")
+
